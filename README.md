@@ -8,6 +8,8 @@ This is a Python model working on Databrick platform to extract data from Spotif
 - Popularity Analysis: Analyze the productivity and popularity of some artists based on their top tracks recommended by Spotify in 3 years up to now (since 2021).
 - Genre Analysis: Analyze group of appealing market for some popular genres in Spotify.
 
+Model limitation: Spotify API only allows to fectch limited data. Therefore, the result of the Genre Analysis when reloading analysis on Databricks multiple times might be slightly different due to limited samples of Spotify random suggestion for each time data fetching. However, meaningful insights from data does not remarkably change.
+
 Spotify API Analysis.ipynb: the jupyter notebook containing code.
 
 Spotify API Analysis - Artist Analysis Dashboard.html: the html file showing the Artist Analysis dashboard (DOWNLOAD RAW FILE TO VIEW DASHBOARD).
