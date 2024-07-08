@@ -9,6 +9,9 @@ This is a Python model working on Databrick platform to extract data from Spotif
 - Genre Analysis: Analyze group of appealing market for some popular genres in Spotify.
 
 Spotify API Analysis.ipynb: the jupyter notebook containing code.
+
 Spotify API Analysis - Artist Analysis Dashboard.html: the html file showing the Artist Analysis dashboard (DOWNLOAD RAW FILE TO VIEW DASHBOARD).
+
 Spotify API Analysis - Genre Analysis Dashboard.html: the html file showing the Genre Analysis dashboard (DOWNLOAD RAW FILE TO VIEW DASHBOARD).
+
 Spotify API Analysis - Popularity Analysis Dashboard.html: the html file showing the Popularity Analysis dashboard (DOWNLOAD RAW FILE TO VIEW DASHBOARD).
